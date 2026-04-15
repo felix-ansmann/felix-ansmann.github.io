@@ -38,10 +38,10 @@ const PROJECTS = [
     type: "Projects",
     description: "Video essay on how finance and computation turned environmental catastrophe into a speculative opportunity. Presented at <a href='https://trust.support' target='_blank'>Trust Berlin</a> as part of the group show Forked.",
     images: [
+      "assets/projects/extreme-value/04.jpg",
       "assets/projects/extreme-value/01.jpg",
       "assets/projects/extreme-value/02.jpg",
       "assets/projects/extreme-value/03.jpg",
-      "assets/projects/extreme-value/04.jpg",
       "assets/projects/extreme-value/05.jpg",
     ],
   },
