@@ -33,10 +33,10 @@
 
 const PROJECTS = [
   {
-    title: "Digital Commons: Infrastructures, Design, and the Ethics of Autonomy",
-    venue: "Upcoming – Panteion University of Social and Political Science",
+    title: "Digital Commons Conference",
+    venue: "Upcoming – Panteion University",
     type: "Research",
-    description: "Upcoming conference talk on Open Source Software, Digital Commons, and the economic conditions they are embedded in.",
+    description: "Upcoming presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
   },
   {
     title: "Extreme Value",
