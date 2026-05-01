@@ -33,6 +33,12 @@
 
 const PROJECTS = [
   {
+    title: "Digital Commons: Infrastructures, Design, and the Ethics of Autonomy",
+    venue: "Upcoming – Panteion University of Social and Political Science",
+    type: "Research",
+    description: "Upcoming conference talk on Open Source Software, Digital Commons, and the economic conditions they are embedded in.",
+  },
+  {
     title: "Extreme Value",
     venue: "2025 – Trust Berlin",
     type: "Projects",
