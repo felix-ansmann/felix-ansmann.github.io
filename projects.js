@@ -39,7 +39,7 @@ const PROJECTS = [
     description: "Upcoming presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
   },
   {
-    title: "Extreme Value",
+    title: "Primer to the Culture of Financialization",
     venue: "2025 – Trust Berlin",
     type: "Projects",
     description: "Video essay on how finance, statistics, and computation turned environmental catastrophe into a speculative opportunity. Presented at <a href='https://trust.support' target='_blank'>Trust Berlin</a> as part of the group show Forked.",
