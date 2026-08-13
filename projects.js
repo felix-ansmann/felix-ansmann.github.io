@@ -127,6 +127,8 @@ const PROJECTS = [
     venue: "2023 – B3 Festival of the Moving Image",
     type: "Projects",
     description: "Adapted version of video installation created with Maurice Wald presented at B3 Festival of the Moving Image.",
+    images: [
+      "",
     ],
   },
   {
@@ -134,6 +136,8 @@ const PROJECTS = [
     venue: "2023 – Silent Green",
     type: "Projects",
     description: "Group show as part of Transmediale.",
+    images: [
+      "",
     ],
   },
   {
