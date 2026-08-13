@@ -38,7 +38,7 @@ const PROJECTS = [
     type: "Research",
     description: "Upcoming presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
   },
-    {
+  {
     title: "The Language of Prediction",
     venue: "2026 – Encounters Bookspace",
     type: "Other",
