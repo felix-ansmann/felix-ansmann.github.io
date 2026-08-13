@@ -123,6 +123,20 @@ const PROJECTS = [
     ],
   },
   {
+    title: "Closed Loop / Scrying Mirror (Redux)",
+    venue: "2023 – B3 Festival of the Moving Image",
+    type: "Projects",
+    description: "Adapted version of video installation created with Maurice Wald presented at B3 Festival of the Moving Image.",
+    ],
+  },
+  {
+    title: "Transmediale Vorspiel",
+    venue: "2023 – Silent Green",
+    type: "Projects",
+    description: "Group show as part of Transmediale.",
+    ],
+  },
+  {
     title: "Loops with Vladan Joler and Kim Albrecht",
     venue: "2023 – New Practice in Art and Technology",
     type: "Other",
@@ -145,6 +159,12 @@ const PROJECTS = [
     venue: "2022 – Documenta 15",
     type: "Projects",
     description: "Video on the politics of personal data and the self screened at Temporary Home at Documenta 15.",
+  },
+  {
+    title: "Profiling",
+    venue: "2022 – Museum for Photography",
+    type: "Projects",
+    description: "Group show at Museum for Photography Berlin.",
   },
   {
     title: "Aesthetics of Interiorization",
@@ -175,6 +195,12 @@ const PROJECTS = [
     venue: "2021 – University of the Arts Berlin",
     type: "Teaching",
     description: "Facilitated workshop with Black Swan DAO on alternative creative economies.",
+  },
+  {
+    title: "Another Matter",
+    venue: "2022 – Acud Gallery",
+    type: "Projects",
+    description: "Group show at Acud Gallery Berlin.",
   },
   {
     title: "Virtualities and Worldbuilding",
