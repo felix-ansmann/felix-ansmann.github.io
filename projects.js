@@ -51,7 +51,7 @@ const PROJECTS = [
     ],
   },
   {
-    title: "Primer to the Culture of Financialization",
+    title: "Extreme Values",
     venue: "2025 – Trust Berlin",
     type: "Projects",
     description: "Video essay on how finance, statistics, and computation turned environmental catastrophe into a speculative opportunity. Presented at <a href='https://trust.support' target='_blank'>Trust Berlin</a> as part of the group show Forked.",
