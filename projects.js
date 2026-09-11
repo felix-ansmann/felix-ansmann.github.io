@@ -171,10 +171,10 @@ const PROJECTS = [
     description: "Group show at Museum for Photography Berlin.",
   },
   {
-    title: "Aesthetics of Interiorization",
+    title: "The Politics of Simulation",
     venue: "2022 – New European Bauhaus Festival",
     type: "Research",
-    description: "Presentation on the aesthetic paradigms of globalization and the politics they produce.",
+    description: "Presentation on the aesthetic paradigms of planetary simulations and models and the politics they produce.",
   },
   {
     title: "NM Special Report",
