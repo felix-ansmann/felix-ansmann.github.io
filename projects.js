@@ -98,10 +98,10 @@ const PROJECTS = [
     ],
   },
   {
-    title: "Invisual Culture: Seeing and Computation",
+    title: "The Cultural Logic of Artifical Intelligence",
     venue: "2024 – Academy of Fine Arts Leipzig",
     type: "Teaching",
-    description: "Seminar on how images have been turned from a matter of aesthetics into a central resource for today's digital technologies – most predominantly AI.",
+    description: "Seminar on how data science and computation have turned culture into a central resource for today's digital technologies – most predominantly AI.",
     images: [
       "assets/projects/invisual-culture/01.jpg",
       "assets/projects/invisual-culture/02.jpg",
