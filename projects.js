@@ -39,10 +39,10 @@ const PROJECTS = [
     description: "Upcoming presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
   },
   {
-    title: "The Language of Prediction",
+    title: "Notes on the Political Economy of Frontier AI",
     venue: "2026 – Encounters Bookspace",
     type: "Other",
-    description: "Talk and discussion with artist Sheung Yiu on AI, data, and the ways in which AI companies are dependent on the appropriation of human intelligence. Presented by <a href='https://wma.hk/' target='_blank'>WMA</a>.",
+    description: "Talk on AI, data, and the ways in which AI companies are dependent on the appropriation of human intelligence. Part of The Language of Prediction with artist Sheung Yiu presented by <a href='https://wma.hk/' target='_blank'>WMA</a>.",
     images: [
       "assets/projects/encounter-talk/Encounters_Talk_1_1.png",
       "assets/projects/encounter-talk/Encounters_Talk_3_1.png",
