@@ -98,7 +98,7 @@ const PROJECTS = [
     ],
   },
   {
-    title: "The Cultural Logic of Artifical Intelligence",
+    title: "The Cultural Logic of Artificial Intelligence",
     venue: "2024 – Academy of Fine Arts Leipzig",
     type: "Teaching",
     description: "Seminar on how data science and computation have turned culture into a central resource for today's digital technologies – most predominantly AI.",
