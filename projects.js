@@ -34,9 +34,9 @@
 const PROJECTS = [
   {
     title: "Digital Commons Conference",
-    venue: "Upcoming – Panteion University",
+    venue: "2026 – Panteion University",
     type: "Research",
-    description: "Upcoming presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
+    description: "Presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
   },
   {
     title: "Notes on the Political Economy of Frontier AI",
