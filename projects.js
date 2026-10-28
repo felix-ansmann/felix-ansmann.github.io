@@ -33,7 +33,7 @@
 
 const PROJECTS = [
   {
-    title: "Contribution and Capture: Open Source and Tech Sovereignty.",
+    title: "Contribution and Capture: On Open Source and Tech Sovereignty.",
     venue: "2026 – Panteion University",
     type: "Research",
     description: "Presentation on Open Source Software, Digital Commons, and the economic conditions they are embedded in at <a href='https://digicommons.org//' target='_blank'>Digital Commons: Infrastructures, Design, and the Ethics of Autonomy</a>.",
